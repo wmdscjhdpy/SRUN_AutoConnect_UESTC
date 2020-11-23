@@ -13,7 +13,8 @@
 注意！在使用之前，需要更改config.ini来输入你对应的学号和密码，如果认证服务器地址有更新，也需要进行修改
 ### 使用可执行文件直接使用
 请直接移步Release
-Windows x64:
+![Windows x64](https://github.com/wmdscjhdpy/SRUN_AutoConnect_UESTC/releases/)
+Linux 等待打包中
 
 ### python环境配置使用
 需求的包：selenium,configparser,requests,   如果需要自己重新打包二进制文件需要pyinstaller
