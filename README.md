@@ -10,7 +10,10 @@
 - webdriver         Chrome的web驱动，执行过程中需要调用
 
 ## 使用方法
-注意！在使用之前，需要更改config.ini来输入你对应的学号和密码，如果认证服务器地址有更新，也需要进行修改
+注意！在使用之前：
+1. 需要更改config.ini来输入你对应的学号和密码，如果认证服务器地址有更新，也需要进行修改
+2. 需要安装chrome浏览器，测试可用的版本：![87.0.4280.66](http://www.pc9.com/pc/info-3879.html)
+
 ### 使用可执行文件直接使用
 请直接移步Release
 ![Windows x64](https://github.com/wmdscjhdpy/SRUN_AutoConnect_UESTC/releases/)

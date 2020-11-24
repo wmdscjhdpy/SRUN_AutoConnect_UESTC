@@ -3,3 +3,4 @@ __pycache__
 build
 dist
 /auto_login.spec
+myconfig.ini
