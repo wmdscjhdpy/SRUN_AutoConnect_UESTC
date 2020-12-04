@@ -1,6 +1,6 @@
 # 电子科技大学电信宽带自动登录
 
-源自 ![LambdaYH/UESTC-SRUN](https://github.com/LambdaYH/UESTC-SRUN)
+源自 [LambdaYH/UESTC-SRUN](https://github.com/LambdaYH/UESTC-SRUN)
 
 主要改进：可以不需要python环境，导出为exe直接执行，更新webDriver为版本87
 
@@ -12,11 +12,11 @@
 ## 使用方法
 注意！在使用之前：
 1. 需要更改config.ini来输入你对应的学号和密码，如果认证服务器地址有更新，也需要进行修改
-2. 需要安装chrome浏览器，测试可用的版本：![87.0.4280.66](http://www.pc9.com/pc/info-3879.html)
+2. 需要安装chrome浏览器，测试可用的版本：[87.0.4280.66](http://www.pc9.com/pc/info-3879.html)
 
 ### 使用可执行文件直接使用
 请直接移步Release
-![Windows x64](https://github.com/wmdscjhdpy/SRUN_AutoConnect_UESTC/releases/)
+[Windows x64](https://github.com/wmdscjhdpy/SRUN_AutoConnect_UESTC/releases/)
 Linux 等待打包中
 
 ### python环境配置使用
